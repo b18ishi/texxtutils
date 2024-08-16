@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/texxtutils/static/css/main.be0c93d8.chunk.css",
+    "main.js": "/texxtutils/static/js/main.1efe46cd.chunk.js",
+    "main.js.map": "/texxtutils/static/js/main.1efe46cd.chunk.js.map",
+    "runtime-main.js": "/texxtutils/static/js/runtime-main.bee39671.js",
+    "runtime-main.js.map": "/texxtutils/static/js/runtime-main.bee39671.js.map",
+    "static/js/2.722795a9.chunk.js": "/texxtutils/static/js/2.722795a9.chunk.js",
+    "static/js/2.722795a9.chunk.js.map": "/texxtutils/static/js/2.722795a9.chunk.js.map",
+    "static/js/3.ef87d525.chunk.js": "/texxtutils/static/js/3.ef87d525.chunk.js",
+    "static/js/3.ef87d525.chunk.js.map": "/texxtutils/static/js/3.ef87d525.chunk.js.map",
+    "index.html": "/texxtutils/index.html",
+    "precache-manifest.dbadeb719fb38e410b4c31669045b101.js": "/texxtutils/precache-manifest.dbadeb719fb38e410b4c31669045b101.js",
+    "service-worker.js": "/texxtutils/service-worker.js",
+    "static/css/main.be0c93d8.chunk.css.map": "/texxtutils/static/css/main.be0c93d8.chunk.css.map",
+    "static/js/2.722795a9.chunk.js.LICENSE.txt": "/texxtutils/static/js/2.722795a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bee39671.js",
+    "static/js/2.722795a9.chunk.js",
+    "static/css/main.be0c93d8.chunk.css",
+    "static/js/main.1efe46cd.chunk.js"
+  ]
+}
